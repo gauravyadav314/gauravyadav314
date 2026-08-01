@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravyadav314&layout=compact&theme=dark" alt="Most Used Languages" width="38%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravyadav314&theme=dark&langs_count=8" alt="Most Used Languages" width="48%" />
 </p>
 
 ---
@@ -50,6 +50,11 @@
 ## 🚀 Featured Repositories:
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=YOUR_REPO_NAME_1&theme=dark" alt="Repository 1" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=YOUR_REPO_NAME_2&theme=dark" alt="Repository 2" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=jsCasino&theme=dark" alt="jsCasino" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=rockPaperScissors&theme=dark" alt="rockPaperScissors" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=DPPToQuiz&theme=dark" alt="DPPToQuiz" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=freevps&theme=dark" alt="freevps" width="48%" />
 </p>
