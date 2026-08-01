@@ -30,9 +30,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60)<br/>
 ![](https://streak-stats.demolab.com/?user=gauravyadav314&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&cache_seconds=60)
 
 ---
 
@@ -45,12 +45,8 @@
 ## 🚀 Featured Repositories:
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=bookmyscreen-fullstack&theme=dark" alt="bookmyscreen-fullstack" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=Leetcode-Solutions&theme=dark" alt="Leetcode-Solutions" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=Resume&theme=dark" alt="Resume" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=bookmyscreen-fullstack&theme=dark&cache_seconds=60" alt="bookmyscreen-fullstack" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=Leetcode-Solutions&theme=dark&cache_seconds=60" alt="Leetcode-Solutions" width="48%" />
 </p>
 
 ---
