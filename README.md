@@ -4,7 +4,7 @@
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -28,16 +28,11 @@
 
 ---
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravyadav314&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=gauravyadav314&theme=dark" alt="GitHub Streak Stats" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravyadav314&theme=dark&langs_count=8" alt="Most Used Languages" width="48%" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=gauravyadav314&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 
@@ -56,10 +51,14 @@
 ## 🚀 Featured Repositories:
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=bookmyscreen-fullstack&theme=dark" alt="bookmyscreen-fullstack" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=Leetcode-Solutions&theme=dark" alt="Leetcode-Solutions" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=bookmyscreen-fullstack&theme=dark" alt="bookmyscreen-fullstack" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=Leetcode-Solutions&theme=dark" alt="Leetcode-Solutions" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=Resume&theme=dark" alt="Resume" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gauravyadav314&repo=Resume&theme=dark" alt="Resume" width="48%" />
 </p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=gauravyadav314&label=Profile%20Views&color=0077b5&style=flat-square)
