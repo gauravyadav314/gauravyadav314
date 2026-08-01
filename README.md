@@ -36,12 +36,6 @@
 
 ---
 
-## 🗓️ Contribution Heatmap:
-
-![Gaurav's Contribution Heatmap](https://ghchart.rshah.org/39d353/gauravyadav314)
-
----
-
 ## 📈 Contribution Graph:
 
 ![Gaurav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravyadav314&theme=react-dark)
