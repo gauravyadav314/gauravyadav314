@@ -50,11 +50,10 @@
 ## 🚀 Featured Repositories:
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=jsCasino&theme=dark" alt="jsCasino" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=rockPaperScissors&theme=dark" alt="rockPaperScissors" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=bookmyscreen-fullstack&theme=dark" alt="bookmyscreen-fullstack" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=Leetcode-Solutions&theme=dark" alt="Leetcode-Solutions" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=DPPToQuiz&theme=dark" alt="DPPToQuiz" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=freevps&theme=dark" alt="freevps" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=Resume&theme=dark" alt="Resume" width="48%" />
 </p>
