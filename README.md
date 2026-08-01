@@ -38,3 +38,18 @@
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravyadav314&layout=compact&theme=dark" alt="Most Used Languages" width="38%" />
 </p>
+
+---
+
+## 📈 Contribution Graph:
+
+![Gaurav's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravyadav314&theme=react-dark)
+
+---
+
+## 🚀 Featured Repositories:
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=YOUR_REPO_NAME_1&theme=dark" alt="Repository 1" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=YOUR_REPO_NAME_2&theme=dark" alt="Repository 2" width="48%" />
+</p>
