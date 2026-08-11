@@ -31,12 +31,12 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1" alt="GitHub Stats" width="48%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=gauravyadav314&theme=dark&hide_border=false" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&cache_seconds=1" alt="Top Languages" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -50,8 +50,8 @@
 ## 🚀 Featured Repositories:
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=bookmyscreen-fullstack&theme=dark&cache_seconds=1" alt="bookmyscreen-fullstack" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gauravyadav314&repo=Leetcode-Solutions&theme=dark&cache_seconds=1" alt="Leetcode-Solutions" width="48%" />
+  <img src="./profile/bookmyscreen.svg" alt="bookmyscreen-fullstack" width="48%" />
+  <img src="./profile/leetcode.svg" alt="Leetcode-Solutions" width="48%" />
 </p>
 
 ---

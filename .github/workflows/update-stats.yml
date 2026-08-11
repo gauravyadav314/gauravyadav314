@@ -1,0 +1,56 @@
+name: Update Profile Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs automatically every 12 hours
+  workflow_dispatch: # Allows manual trigger anytime from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Main Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=gauravyadav314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pinned Repo - BookMyScreen
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=gauravyadav314&repo=bookmyscreen-fullstack&theme=dark
+          path: profile/bookmyscreen.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pinned Repo - Leetcode Solutions
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=gauravyadav314&repo=Leetcode-Solutions&theme=dark
+          path: profile/leetcode.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: auto-update profile stats SVGs" || exit 0
+          git push
