@@ -130,11 +130,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
-      <text x="215" y="34" class="lang-name">45.47%</text>
+      <text x="215" y="34" class="lang-name">45.23%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="45.47210904511445%">
+      <svg data-testid="lang-progress" width="45.225394617406785%">
         <rect
             height="8"
             fill="#f1e05a"
@@ -149,11 +149,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">C++</text>
-      <text x="215" y="34" class="lang-name">29.78%</text>
+      <text x="215" y="34" class="lang-name">30.16%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="29.783539521446034%">
+      <svg data-testid="lang-progress" width="30.164507420811283%">
         <rect
             height="8"
             fill="#f34b7d"
@@ -168,11 +168,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
-      <text x="215" y="34" class="lang-name">23.01%</text>
+      <text x="215" y="34" class="lang-name">22.88%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="23.00792651307504%">
+      <svg data-testid="lang-progress" width="22.88309422485235%">
         <rect
             height="8"
             fill="#3178c6"
